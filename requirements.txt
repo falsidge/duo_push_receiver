@@ -1,0 +1,5 @@
+cryptography
+aiohttp
+http_ece
+requests
+pycryptodome

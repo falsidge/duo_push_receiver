@@ -1,0 +1,6 @@
+[submodule "ruo"]
+	path = ruo
+	url = https://github.com/falsidge/ruo
+[submodule "push_receiver_py"]
+	path = push_receiver_py
+	url = https://github.com/falsidge/push_receiver_py
